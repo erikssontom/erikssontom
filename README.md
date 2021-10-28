@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @erikssontom
+- 👀 I’m interested in fun and challenging problems!
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on interesting web apps
+- 📫 How to reach me send me an email on tom.ceriksson@outlook.com
